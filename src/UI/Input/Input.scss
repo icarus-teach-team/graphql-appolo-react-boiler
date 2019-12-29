@@ -1,0 +1,13 @@
+.input-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+
+    &__label-elm {
+        flex: 1
+    }
+
+    &__input-elm {
+        flex: 1
+    }
+}
